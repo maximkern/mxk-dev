@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **go, go, and more go.**
 
-- 📫 How to reach me **maximkern@college.harvard.edu**
+- 📫 How to reach me --> **maximkern@college.harvard.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
