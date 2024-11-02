@@ -1,6 +1,6 @@
-<h3 align="center">I'm Max! A passionate computer science student, finance enthusiast, and a tryhard student.</h3>
+<h3 align="center">I'm Max! A passionate computer science student and finance enthusiast.</h3>
 
-- 🌱 I’m currently learning **go, go, and more go.**
+- 🌱 I’m currently learning **go, go, and more go.** (and some C in between)
 
 - 📫 How to reach me --> **maximkern@college.harvard.edu**
 
